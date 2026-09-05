@@ -1,0 +1,20 @@
+My GeoDev Lab Project Brief
+
+1. The Question
+Which wards in Wammakko Local Government Area have settlements that sit more than 5 km away from a primary healthcare facility?
+
+2. Why It Matters
+Local public health planners and state ministries can use this physical accessibility gap analysis to identify underserved rural settlements, prioritize emergency transport routes, and allocate mobile clinic resources efficiently.
+
+3. Data Required
+- Operational Ward Boundaries for Wammakko LGA (Vector Polygons)
+- Settlement Extents / Locations in Wammakko LGA (Vector Points/Polygons)
+- Health Facility Points in Wammakko LGA (Vector Points)
+
+4. Data Sources & Links
+- Ward Boundaries: GRID3 Nigeria (NGA Operational Wards v3.0) — https://data.grid3.org — GeoPackage — ~15 MB
+- Settlement Extents: GRID3 Nigeria (NGA Settlement Extents v4.1) — https://data.grid3.org — GeoPackage — ~40 MB
+- Health Facilities: GRID3 Nigeria Health Facilities v3.0 / OpenStreetMap via QuickOSM — https://data.grid3.org — GeoPackage — ~5 MB
+
+5. What I Will Build
+A spatial processing pipeline and automated accessibility dashboard view in QGIS that runs distance-buffer calculations and generates summary maps whenever updated health facility or ward datasets are loaded.
