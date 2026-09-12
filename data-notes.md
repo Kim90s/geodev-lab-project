@@ -1,4 +1,4 @@
-[data.notes.md.txt](https://github.com/user-attachments/files/32146668/data.notes.md.txt)[Uploading data.notes.md.txt…](Data Notes — Wammakko Health Access Analysis
+Notes — Wammakko Health Access Analysis
 
 1. Wammakko Ward Boundaries
 - Source:GRID3 Nigeria Operational Wards v3.0 (data.grid3.org)
