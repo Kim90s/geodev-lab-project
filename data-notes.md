@@ -40,6 +40,8 @@
 - Clipped all vector datasets (`osm_roads`, `Health_facility`, `Settlements`) to the Wammakko LGA boundary.
 - Reprojected all clipped outputs to `EPSG:32631` and saved them into `data/processed/`.
   
-## Area Sanity Check: Individual ward area measures ~92.15 km² (with total Wammakko LGA summing to ~1,290 km²), confirming accurate reprojection from square degrees to square kilometers.
+## Area Sanity Check
+- Individual ward area measures ~92.15 km² (with total Wammakko LGA summing to ~1,290 km²), confirming accurate reprojection from square degrees to square kilometers.
 
-## Directory Structure: Unmodified raw layers remain intact in `data/raw/`; all analysis-ready layers are stored in `data/processed/`.
+## Directory Structure
+- Unmodified raw layers remain intact in `data/raw/`; all analysis-ready layers are stored in `data/processed/`.
