@@ -9,7 +9,7 @@ While eastern Wammakko enjoys heavy health facility coverage with overlapping 5 
 ## Project Documentation
 - **Week 1:** [Project Brief](project-brief.md)
 - **Week 2:** [Data Notes](data-notes.md)
-- **Week 3:** Prepared data & quality checks in repository root
+- **Week 3:** [Data Quality Checks & Prepared Data](data-notes.md)
 - **Week 4:** [Month 1 Summary](month-1-summary.md) & [5km Health Access Map](wammakko_5km_health_access.png.jpeg)
 
 
